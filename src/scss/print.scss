@@ -1,0 +1,26 @@
+@media print {
+  :root {
+    --body-color: black;
+    --body-bg: white;
+  }
+
+  .history-item_position::before {
+    border-left: 1px solid rgba(0, 0, 0, 0.6);
+  }
+
+  hr {
+    border-top: $hr-border-width solid black;
+  }
+
+  .contact {
+    --fa-secondary-color: #black;
+    --fa-secondary-opacity: 1;
+    --fa-primary-color: #191919;
+    --fa-primary-opacity: 0;
+  }
+
+  a {
+    text-decoration: none !important;
+    color: #000;
+  }
+}
