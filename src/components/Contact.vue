@@ -5,7 +5,7 @@
         <ul>
             <li>
                 <font-awesome-icon :icon="['fad','map-marker-alt']" fixed-width></font-awesome-icon>
-                <span class="ml-1">118 Nelson Street, Auckland CBD, Auckland, New Zealand</span>
+                <span class="ml-1">91 Cameron St, Whangarei, 0110, New Zealand</span>
             </li>
             <li>
                 <font-awesome-icon :icon="['fad','envelope']" fixed-width></font-awesome-icon>
